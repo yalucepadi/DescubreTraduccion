@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_nameS" translatable="false">Descifrar</string>
+    <string name="instrucciones" translatable="false">Descifra la palabra usando todas las letras.</string>
+    <string name="saltar" translatable="false">Saltar</string>
+    <string name="Entregar" translatable="false">Entregar</string>
+    <string name="puntuación" translatable="false">Puntuación: %d</string>
+    <string name="palabras_contador" translatable="false">%d de %d palabras</string>
+    <string name="introduce_tu_palabra" translatable="false">Introduce tu palabra</string>
+    <string name="felicidades" translatable="false">¡Felicidades!</string>
+    <string name="tu_puntacion" translatable="false">"Has puntuado: %d"</string>
+    <string name="salir" translatable="false">Salir</string>
+    <string name="juega_de_nuevo" translatable="false">Juega de nuevo</string>
+    <string name="intentar_otra_vez" translatable="false">¡Intentar otra vez!</string>
+</resources>
